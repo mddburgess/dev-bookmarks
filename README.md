@@ -10,6 +10,10 @@ My collection of development resources.
 ## CSS
 * [Font Awesome](http://fontawesome.io/)
 
+## DevOps
+* [GitHub Auto-Deploy Setup Guide](https://www.portent.com/blog/design-dev/github-auto-deploy-setup-guide.htm)
+  * [GitHub Auto-Deploy Reprise](https://www.portent.com/blog/design-dev/github-auto-deploy-reprise.htm)
+
 ## Other Lists
 * [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
