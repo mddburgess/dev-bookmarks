@@ -1,9 +1,12 @@
 # dev-bookmarks
 My collection of development resources.
 
+## C
+* [Simple DirectMedia Layer (SDL)](https://www.libsdl.org/)
+
 ## C++
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
-+ [C++ Reference](http://en.cppreference.com/w/)
+* [C++ Reference](http://en.cppreference.com/w/)
 
 ## CMake
 * [Using SDL2 with CMake](https://trenki2.github.io/blog/2017/06/02/using-sdl2-with-cmake/)
