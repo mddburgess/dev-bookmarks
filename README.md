@@ -7,6 +7,7 @@ My collection of development resources.
 ## C++
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [C++ Reference](http://en.cppreference.com/w/)
+* [Simple and Fast Multimedia Library (SFML)](https://www.sfml-dev.org/)
 
 ## CMake
 * [Using SDL2 with CMake](https://trenki2.github.io/blog/2017/06/02/using-sdl2-with-cmake/)
