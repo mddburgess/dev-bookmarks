@@ -5,6 +5,7 @@ My collection of development resources.
 * [Simple DirectMedia Layer (SDL)](https://www.libsdl.org/)
 
 ## C++
+* [Boost C++ Libraries](http://www.boost.org/)
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [C++ Reference](http://en.cppreference.com/w/)
 * [Simple and Fast Multimedia Library (SFML)](https://www.sfml-dev.org/)
