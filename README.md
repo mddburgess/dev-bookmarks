@@ -20,6 +20,9 @@ My collection of development resources.
 * [GitHub Auto-Deploy Setup Guide](https://www.portent.com/blog/design-dev/github-auto-deploy-setup-guide.htm)
   * [GitHub Auto-Deploy Reprise](https://www.portent.com/blog/design-dev/github-auto-deploy-reprise.htm)
 
+## Game Development
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/)
+
 ## Java
 * [Approval Tests](http://approvaltests.com/)
   * [Approval Tests Java (GitHub)](https://github.com/approvals/ApprovalTests.Java)
