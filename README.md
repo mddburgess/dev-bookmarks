@@ -9,6 +9,7 @@ My collection of development resources.
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [C++ Reference](http://en.cppreference.com/w/)
 * [Fluent C++](http://www.fluentcpp.com/)
+* [Programming in C++11 and SDL2](http://headerphile.com/)
 * [Simple and Fast Multimedia Library (SFML)](https://www.sfml-dev.org/)
 
 ## CMake
