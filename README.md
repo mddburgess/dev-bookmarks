@@ -30,5 +30,6 @@ My collection of development resources.
   * [Approval Tests Java (GitHub)](https://github.com/approvals/ApprovalTests.Java)
 
 ## Other Lists
+* [12 Great Places to Find Sound Effects for Your Game or Project](http://ninichimusic.com/blog/2017/3/29/12-great-places-to-find-sound-effects-for-your-game-or-project)
 * [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
