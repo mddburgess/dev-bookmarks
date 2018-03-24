@@ -34,6 +34,7 @@ My collection of development resources.
 
 ## Other Lists
 * [12 Great Places to Find Sound Effects for Your Game or Project](http://ninichimusic.com/blog/2017/3/29/12-great-places-to-find-sound-effects-for-your-game-or-project)
+* [Awesome List of Important Podcasts for software engineers](https://github.com/rShetty/awesome-podcasts)
 * [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Coding Style Guidelines](https://github.com/Kristories/awesome-guidelines)
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
