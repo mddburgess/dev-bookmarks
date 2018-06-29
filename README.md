@@ -31,6 +31,7 @@ My collection of development resources.
 ## Java
 * [Approval Tests](http://approvaltests.com/)
   * [Approval Tests Java (GitHub)](https://github.com/approvals/ApprovalTests.Java)
+* [Useful JVM Flags - GC Logging](https://blog.codecentric.de/en/2014/01/useful-jvm-flags-part-8-gc-logging/)
 
 ## Other Lists
 * [12 Great Places to Find Sound Effects for Your Game or Project](http://ninichimusic.com/blog/2017/3/29/12-great-places-to-find-sound-effects-for-your-game-or-project)
