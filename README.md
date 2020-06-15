@@ -19,6 +19,7 @@ My collection of development resources.
 
 ## CSS
 * [Font Awesome](http://fontawesome.io/)
+* [Normalize.css](https://necolas.github.io/normalize.css/)
 
 ## DevOps
 * [GitHub Auto-Deploy Setup Guide](https://www.portent.com/blog/design-dev/github-auto-deploy-setup-guide.htm)
