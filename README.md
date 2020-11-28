@@ -36,6 +36,10 @@ My collection of development resources.
 
 ## React
 * [Formik](https://formik.org/) ([docs](https://formik.org/docs/overview))
+* [React Redux](https://react-redux.js.org/) ([docs](https://react-redux.js.org/introduction/quick-start))
+* [React Router](https://reactrouter.com/) ([docs](https://reactrouter.com/web/guides/quick-start))
+* [Redux](https://redux.js.org/) ([docs](https://redux.js.org/introduction/getting-started))
+* [Redux Toolkit](https://redux-toolkit.js.org/) ([docs](https://redux-toolkit.js.org/introduction/quick-start))
 
 ## Spring
 * [Implementing JWT Authentication on Spring Boot APIs](https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/)
