@@ -34,6 +34,9 @@ My collection of development resources.
   * [Approval Tests Java (GitHub)](https://github.com/approvals/ApprovalTests.Java)
 * [Useful JVM Flags - GC Logging](https://blog.codecentric.de/en/2014/01/useful-jvm-flags-part-8-gc-logging/)
 
+## React
+* [Formik](https://formik.org/) ([docs](https://formik.org/docs/overview))
+
 ## Spring
 * [Implementing JWT Authentication on Spring Boot APIs](https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/)
 * [React.js and Spring Data REST](https://spring.io/guides/tutorials/react-and-spring-data-rest/)
