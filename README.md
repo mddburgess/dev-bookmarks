@@ -14,6 +14,9 @@ My collection of development resources.
 * [Programming in C++11 and SDL2](http://headerphile.com/)
 * [Simple and Fast Multimedia Library (SFML)](https://www.sfml-dev.org/)
 
+## Chrome Extensions
+* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
+
 ## CMake
 * [Using SDL2 with CMake](https://trenki2.github.io/blog/2017/06/02/using-sdl2-with-cmake/)
 
