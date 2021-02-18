@@ -33,8 +33,6 @@ My collection of development resources.
 
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
-* [Game UI Patterns](http://www.gameuipatterns.com/)
-
 ## Java
 * [Approval Tests](http://approvaltests.com/)
   * [Approval Tests Java (GitHub)](https://github.com/approvals/ApprovalTests.Java)
