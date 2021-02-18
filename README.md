@@ -17,6 +17,9 @@ My collection of development resources.
 ## Chrome Extensions
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
 
+## CLI
+* [Command Line Interface Guidelines](https://clig.dev/)
+
 ## CMake
 * [Using SDL2 with CMake](https://trenki2.github.io/blog/2017/06/02/using-sdl2-with-cmake/)
 
