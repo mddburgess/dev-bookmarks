@@ -33,6 +33,7 @@ My collection of development resources.
 
 ## Game Development
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
+
 ## Java
 * [Approval Tests](http://approvaltests.com/)
   * [Approval Tests Java (GitHub)](https://github.com/approvals/ApprovalTests.Java)
@@ -40,6 +41,8 @@ My collection of development resources.
 
 ## React
 * [Formik](https://formik.org/) ([docs](https://formik.org/docs/overview))
+* [React Bootstrap](https://react-bootstrap.github.io/) ([docs](https://react-bootstrap.github.io/getting-started/introduction))
+* [React Bootstrap Icons](https://github.com/ismamz/react-bootstrap-icons)
 * [React Redux](https://react-redux.js.org/) ([docs](https://react-redux.js.org/introduction/quick-start))
 * [React Router](https://reactrouter.com/) ([docs](https://reactrouter.com/web/guides/quick-start))
 * [Redux](https://redux.js.org/) ([docs](https://redux.js.org/introduction/getting-started))
@@ -48,6 +51,10 @@ My collection of development resources.
 ## Spring
 * [Implementing JWT Authentication on Spring Boot APIs](https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/)
 * [React.js and Spring Data REST](https://spring.io/guides/tutorials/react-and-spring-data-rest/)
+
+## Web
+* [Bootstrap](https://getbootstrap.com/) (docs: [4.x](https://getbootstrap.com/docs/4.6/getting-started/introduction/), [5.x](https://getbootstrap.com/docs/5.0/getting-started/introduction/))
+* [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 ## Other Lists
 * [12 Great Places to Find Sound Effects for Your Game or Project](http://ninichimusic.com/blog/2017/3/29/12-great-places-to-find-sound-effects-for-your-game-or-project)
