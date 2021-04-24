@@ -37,6 +37,7 @@ My collection of development resources.
 ## Java
 * [Approval Tests](http://approvaltests.com/)
   * [Approval Tests Java (GitHub)](https://github.com/approvals/ApprovalTests.Java)
+* [ArchUnit](https://www.archunit.org/)
 * [Useful JVM Flags - GC Logging](https://blog.codecentric.de/en/2014/01/useful-jvm-flags-part-8-gc-logging/)
 
 ## React
